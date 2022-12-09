@@ -1,5 +1,5 @@
 import { Router } from "express";
-import products from '../productSchema.js';
+import products from '../models/productSchema.js';
 
 const adminRouter = Router();
 

@@ -1,20 +1,31 @@
 import express from 'express';
-import { Mongo } from './DB/mongoDB.js';
-import adminRouter from './Routers/admin-router.js';
-import clientRouter from './Routers/client-router.js'
+import mongoose from 'mongoose';
+import adminRouter from './Routes/admin-router.js';
+import clientRouter from './Routes/client-router.js'
 
 
-Mongo();
 
-// EXPRESS
+//------EXPRESS-------
 
 const app = express();
 app.use(express.json());
 
+//--------Routes-------
 
 app.use("/api", adminRouter);
 app.use("/api", clientRouter);
 
 
 
-app.listen(process.env.PORT);
+//------------------MongoDB Connection---------------------
+
+(async function () {
+    try {
+        await mongoose.connect(process.env.DB);
+        app.listen(process.env.PORT);
+        console.log("MongoDB connected");
+    } catch (error) {
+        console.log(error);
+    }
+}
+)();

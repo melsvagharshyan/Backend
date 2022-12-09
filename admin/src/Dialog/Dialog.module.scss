@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.deleteContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.1);
+
+    .isDelete {
+        width: 100%;
+        max-width: 350px;
+        margin: 0 10%;
+        height: 200px;
+        background: rgba(255, 255, 255, 0.8);
+        box-shadow: rgba(0, 0, 0, 0.2) 0 0 5px 0;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-family: 'Poppins', sans-serif;
+        align-items: center;
+        text-align: center;
+
+        .buttons {
+            max-width: 100%;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            grid-gap: 15%;
+
+            .yes {
+                padding: 7px 30px;
+                background: rgb(7, 199, 103);
+            }
+
+            .no {
+                padding: 7px 30px;
+                background: rgb(247, 50, 50);
+            }
+        }
+
+        .item_name {
+            padding: 5px 10px;
+            background: rgba(0, 0, 0, 0.1);
+            box-shadow: black 0 0 1px 0;
+            border-radius: 3px;
+
+            h4 {
+                font-family: 'Poppins', sans-serif;
+            }
+        }
+    }
+}

@@ -1,0 +1,150 @@
+
+  // Male
+    "brand": "Gucci",
+    "price": 950,
+    "description": "Men shoe",
+    "category": "shoe",
+    "sex": "male",
+    "image": "https://outmaxshop.ru/components/com_jshopping/files/img_products/27632/gucci-tennis-1977-low-27632-1.jpg",
+    "rating": {
+      "rate": 0,
+      "count": 120
+    }
+
+    "brand": "Armani",
+    "price": 700,
+    "description": "Men shoe",
+    "category": "shoe",
+    "sex": "male",
+    "image": "https://cdn.officeshoes.ws/product_images/2020ss/big/xcc51-x001-wbk.jpg",
+    "rating": {
+      "rate": 0,
+      "count": 120
+    }
+
+    "brand": "Armani",
+    "price": 500,
+    "description": "Men Watch",
+    "category": "watch",
+    "sex": "male",
+    "image": "https://avatars.mds.yandex.net/get-mpic/1525215/img_id5834313188184309439.jpeg/1hq",
+    "rating": {
+      "rate": 0,
+      "count": 120
+    }
+
+    "brand": "Armani",
+    "price": 580,
+    "description": "Men Watch",
+    "category": "watch",
+    "sex": "male",
+    "image": "https://cdn2.jomashop.com/media/catalog/product/a/r/armani-exchange-black-dial-stainless-steel-men_s-watch-ax2093.jpg",
+    "rating": {
+      "rate": 0,
+      "count": 120
+    }
+
+    "brand": "Gucci",
+    "price": 350,
+    "description": "Men Watch",
+    "category": "watch",
+    "sex": "male",
+    "image": "https://cdn2.jomashop.com/media/catalog/product/g/u/gucci-gg2570-black-dial-watch-ya142305.jpg",
+    "rating": {
+      "rate": 0,
+      "count": 120
+    }
+
+    
+    "brand": "Armani",
+    "price": 850,
+    "description": "Men Jacket",
+    "category": "jacket",
+    "sex": "male",
+    "image": "https://fashionarrow.com/wp-content/uploads/2017/09/armani-jackets-ea7-emporio-armani-quilted-jacket-blue-wrfynvi-.jpg",
+    "rating": {
+      "rate": 0,
+      "count": 120
+    }
+
+    "brand": "Gucci",
+    "price": 500,
+    "description": "Men Jacket",
+    "category": "jacket",
+    "sex": "male",
+    "image": "https://image.dhgate.com/0x0s/f2-albu-g10-M00-21-A4-rBVaWV2Q67uATAVGAA3vjLY7Dn4468.jpg/fashion-brand-design-men-039-s-tracksuit.jpg",
+    "rating": {
+      "rate": 0,
+      "count": 120
+    }
+
+
+  
+  //Female
+  
+    "brand": "Gucci",
+    "price": 800,
+    "description": "Women Shoe",
+    "category": "shoe",
+    "image": "http://cdn-img-v2.webbnc.net/uploadv2/web/10/10769/product/2019/03/02/05/51/1551549525_ace-embroidered-sneaker_crocodile-_01.jpg",
+    "sex" : "female"
+    "rating": {
+      "rate": 0,
+      "count": 259
+    }
+
+    "brand": "Armani",
+    "price": 300,
+    "description": "Women Shoe",
+    "category": "shoe",
+    "image": "https://cdn.raffaello-network.com/item_images/armsho-2480087a299-large-1.jpg",
+    "sex" : "female"
+    "rating": {
+      "rate": 0,
+      "count": 259
+    }
+
+    "brand": "Gucci",
+    "price": 480,
+    "description": "Women Watch",
+    "category": "watch",
+    "sex": "female",
+    "image": "https://i.pinimg.com/564x/17/74/9b/17749b33f3756e740280ddfd0ca5654e--gucci-watch-stainless-steel-watch.jpg",
+    "rating": {
+      "rate": 0,
+      "count": 120
+    }
+
+    "brand": "Armani",
+    "price": 600,
+    "description": "Women Watch",
+    "category": "watch",
+    "sex": "female",
+    "image": "https://avatars.mds.yandex.net/get-mpic/195452/img_id478305329115786383/x332_trim",
+    "rating": {
+      "rate": 0,
+      "count": 120
+    }
+
+    "brand": "Gucci",
+    "price": 440,
+    "description": "Women Jacket",
+    "category": "jacket",
+    "sex": "female",
+    "image": "https://i.pinimg.com/originals/d0/2a/ac/d02aac068a4796255103bf05a5ece0fb.jpg",
+    "rating": {
+      "rate": 0,
+      "count": 120
+    }
+
+    
+    "brand": "Armani",
+    "price": 770,
+    "description": "Women Jacket",
+    "category": "jacket",
+    "sex": "female",
+    "image": "https://img.fidcdn.net/r17/product/armani-exchange-kurtka-puchowa-z-odpinanym-kapturem-brudny-bialy-pl_4060786,eda0dc,1500xf.jpg",
+    "rating": {
+      "rate": 0,
+      "count": 120
+    }
